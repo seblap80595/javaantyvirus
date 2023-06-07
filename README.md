@@ -1,3 +1,2 @@
 # javaantyvirus
 
-just run it 
